@@ -1,0 +1,3 @@
+18	rank
+37	additions/subtractions
+0	scalings (mul/div)
