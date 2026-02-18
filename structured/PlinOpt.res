@@ -53,3 +53,8 @@ plinopt construct structured/k00001ff59889378-228-28-mod0.slp with the following
 28	rank
 87	additions/subtractions
 0	scalings (mul/div)
+For structured/k66ce4c614c48bda5-555-93-mod0.exp with constant 374
+plinopt construct structured/k66ce4c614c48bda5-555-93-mod0.slp with the following complexities
+93	rank
+373	additions/subtractions
+0	scalings (mul/div)
