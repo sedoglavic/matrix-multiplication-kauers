@@ -3,6 +3,11 @@ plinopt construct structured/000437bd5a-224-14-mod0.slp with the following compl
 14	rank
 32	additions/subtractions
 0	scalings (mul/div)
+For structured/666r153.exp with constant 691
+plinopt construct structured/666r153.slp with the following complexities
+153	rank
+687	additions/subtractions
+0	scalings (mul/div)
 For structured/c13f74476d-236-30-mod0.exp with constant 92
 plinopt construct structured/c13f74476d-236-30-mod0.slp with the following complexities
 30	rank
